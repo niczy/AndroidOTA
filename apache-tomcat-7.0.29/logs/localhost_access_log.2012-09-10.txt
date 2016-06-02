@@ -1,7 +1,0 @@
-172.16.9.146 - - [10/Sep/2012:14:30:41 +0800] "HEAD /OtaUpdater/android?product=FullAOSPonRk29sdk&version=1.0.0 HTTP/1.1" 200 -
-172.16.9.146 - - [10/Sep/2012:14:30:42 +0800] "HEAD /OtaUpdater/android?product=FullAOSPonRk29sdk&version=1.0.0 HTTP/1.1" 200 -
-127.0.0.1 - - [10/Sep/2012:14:30:58 +0800] "GET /OtaUpdater/android?product=rk29dk&version=1.0.0 HTTP/1.1" 404 952
-172.16.9.146 - - [10/Sep/2012:14:31:21 +0800] "GET /OtaUpdater/android?product=FullAOSPonRk29sdk&version=1.0.0 HTTP/1.1" 206 311296
-127.0.0.1 - - [10/Sep/2012:14:31:30 +0800] "GET /OtaUpdater/android?product=rk29sdk&version=1.0.0 HTTP/1.1" 200 306361248
-172.16.9.146 - - [10/Sep/2012:14:34:28 +0800] "GET /OtaUpdater/android?product=FullAOSPonRk29sdk&version=1.0.0 HTTP/1.1" 206 55246848
-172.16.9.146 - - [10/Sep/2012:14:34:28 +0800] "GET /OtaUpdater/android?product=FullAOSPonRk29sdk&version=1.0.0 HTTP/1.1" 206 56713216

@@ -1,7 +1,0 @@
-127.0.0.1 - - [13/Sep/2012:10:00:22 +0800] "GET /OtaUpdater/android?product=rk29sdk&version=1.0.0 HTTP/1.1" 200 306361248
-127.0.0.1 - - [13/Sep/2012:10:13:40 +0800] "GET /OtaUpdater/android?product=rk29sdk&version=1.0.0 HTTP/1.1" 200 306361248
-127.0.0.1 - - [13/Sep/2012:10:17:42 +0800] "GET /OtaUpdater/android?product=rk29sdk&version=1.0.0 HTTP/1.1" 200 306361248
-127.0.0.1 - - [13/Sep/2012:10:20:37 +0800] "GET /OtaUpdater/android?product=rk29sdk&version=1.0.0 HTTP/1.1" 200 188416
-127.0.0.1 - - [13/Sep/2012:10:20:43 +0800] "GET /OtaUpdater/android?product=rk29sdk&version=1.0.0 HTTP/1.1" 200 306361248
-127.0.0.1 - - [13/Sep/2012:10:22:09 +0800] "GET /OtaUpdater/android?product=rk29sdk&version=1.0.0 HTTP/1.1" 200 196608
-127.0.0.1 - - [13/Sep/2012:10:22:15 +0800] "GET /OtaUpdater/android?product=rk29sdk&version=1.0.0 HTTP/1.1" 200 306361248
