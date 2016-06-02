@@ -1,0 +1,106 @@
+Jun 01, 2016 10:36:45 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/nicholaszhao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Jun 01, 2016 10:36:46 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-2300"]
+Jun 01, 2016 10:36:46 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2016 10:36:46 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1213 ms
+Jun 01, 2016 10:36:46 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jun 01, 2016 10:36:46 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.29
+Jun 01, 2016 10:36:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/docs
+Jun 01, 2016 10:36:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/examples
+Jun 01, 2016 10:36:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/host-manager
+Jun 01, 2016 10:36:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/manager
+Jun 01, 2016 10:36:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/OtaUpdater
+Jun 01, 2016 10:36:47 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.0.3 (FCS b03) for context '/OtaUpdater'
+Jun 01, 2016 10:36:48 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jun 01, 2016 10:36:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/ROOT
+Jun 01, 2016 10:36:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-2300"]
+Jun 01, 2016 10:36:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2016 10:36:48 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2340 ms
+Jun 01, 2016 10:38:27 PM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jun 01, 2016 10:38:27 PM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jun 01, 2016 10:38:27 PM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jun 01, 2016 10:38:27 PM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jun 01, 2016 10:38:32 PM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jun 01, 2016 10:39:02 PM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jun 01, 2016 10:40:02 PM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jun 01, 2016 10:41:59 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context []
+Jun 01, 2016 10:42:10 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/OtaUpdater]
+Jun 01, 2016 10:42:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/ROOT
+Jun 01, 2016 10:42:11 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.0.3 (FCS b03) for context ''
+Jun 01, 2016 10:42:11 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jun 01, 2016 10:42:24 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Jun 01, 2016 10:42:24 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-2300"]
+Jun 01, 2016 10:42:24 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2016 10:42:24 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Jun 01, 2016 10:42:24 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-2300"]
+Jun 01, 2016 10:42:24 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2016 10:42:24 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-2300"]
+Jun 01, 2016 10:42:24 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2016 10:42:34 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/nicholaszhao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Jun 01, 2016 10:42:34 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-2300"]
+Jun 01, 2016 10:42:34 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2016 10:42:34 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 838 ms
+Jun 01, 2016 10:42:34 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jun 01, 2016 10:42:34 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.29
+Jun 01, 2016 10:42:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/docs
+Jun 01, 2016 10:42:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/examples
+Jun 01, 2016 10:42:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/host-manager
+Jun 01, 2016 10:42:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/manager
+Jun 01, 2016 10:42:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/nicholaszhao/Workspace/AndroidOTA/apache-tomcat-7.0.29/webapps/ROOT
+Jun 01, 2016 10:42:36 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.0.3 (FCS b03) for context ''
+Jun 01, 2016 10:42:36 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jun 01, 2016 10:42:36 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-2300"]
+Jun 01, 2016 10:42:36 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2016 10:42:36 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2001 ms
