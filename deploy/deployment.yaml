@@ -1,0 +1,16 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: android-ota 
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        run: android-ota 
+    spec:
+      containers:
+        - name: android-ota 
+        image: gcr.io/nich01as-com/android-ota:latest
+        ports:
+        - containerPort: 8080
