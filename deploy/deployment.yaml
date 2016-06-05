@@ -10,7 +10,7 @@ spec:
         run: android-ota 
     spec:
       containers:
-        - name: android-ota 
-        image: gcr.io/nich01as-com/android-ota:latest
+      - name: android-ota 
+        image: gcr.io/nich01as-com/androidota:latest
         ports:
         - containerPort: 8080
