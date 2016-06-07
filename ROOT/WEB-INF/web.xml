@@ -26,7 +26,7 @@
 
   <servlet-mapping>
     <servlet-name>OtaServlet</servlet-name>
-    <url-pattern>/android</url-pattern>
+    <url-pattern>/OtaUpdater/android</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
     <servlet-name>Log4j</servlet-name>
