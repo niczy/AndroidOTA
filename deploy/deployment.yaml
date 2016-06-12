@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: android-ota 
-        image: gcr.io/nich01as-com/androidota:20160606
+        image: gcr.io/nich01as-com/androidota:20160611
         ports:
         - containerPort: 8080
