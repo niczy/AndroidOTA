@@ -1,2 +1,4 @@
 **/*.log
 apache-tomcat-7.0.29/logs
+ROOT/WEB-INF/packages
+**/.DS_Store

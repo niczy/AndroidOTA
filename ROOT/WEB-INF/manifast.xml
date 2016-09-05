@@ -23,6 +23,7 @@
 	</product>
         <product name="RecPad-10-R405" full_package_path="null" rkimage_path="null">
 		<version name="1.2.2" package_path="packages/RecPad-10-R405/1.2.2/1.2.3_test.zip" />
+		<version name="1.2.7" package_path="packages/RecPad-10-R405/1.2.2/update_1.2.7.zip" />
         </product>
 </manifast>
 
