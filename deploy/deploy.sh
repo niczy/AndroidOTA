@@ -1,4 +1,4 @@
-docker build -t gcr.io/nich01as-com/androidota:20160905 .
-gcloud docker push gcr.io/nich01as-com/androidota:20160905
+docker build -t gcr.io/nich01as-com/androidota:20160909-2 .
+gcloud docker push gcr.io/nich01as-com/androidota:20160909-2
 
 
