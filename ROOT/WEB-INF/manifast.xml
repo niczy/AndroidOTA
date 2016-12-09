@@ -21,11 +21,17 @@
 		<version name="1.0.0" package_path="packages/rk29sdk/1.0.0/1.0.1.zip" />
 		<version name="1.0.1" package_path="packages/rk29sdk/1.0.1/1.0.2.zip" />
 	</product>
-        <product name="RecPad-10-R405" full_package_path="null" rkimage_path="null">
+  <product name="RePad-10-R606" full_package_path="null" rkimage_path="null">
+		<version name="1.0.3" package_path="packages/RePad-10-R606/1.0.4/update.zip" />
+	</product>
+	<product name="RecPad-10-R606" full_package_path="null" rkimage_path="null">
+		<version name="1.0.3" package_path="packages/RePad-10-R606/1.0.4/update.zip" />
+	</product>
+  <product name="RecPad-10-R405" full_package_path="null" rkimage_path="null">
 		<version name="1.2.2" package_path="packages/RecPad-10-R405/1.2.2/1.2.3_test.zip" />
-		<version name="1.2.3" package_path="packages/RecPad-10-R405/1.2.7/update_1.2.9.zip" />
-		<version name="1.2.7" package_path="packages/RecPad-10-R405/1.2.7/update_1.2.9.zip" />
-		<version name="1.2.9" package_path="packages/RecPad-10-R405/1.2.7/update_1.2.9.zip" />
+		<version name="1.2.3" package_path="packages/RecPad-10-R405/1.2.7/update.zip" />
+		<version name="1.2.4" package_path="packages/RecPad-10-R405/1.2.7/update.zip" />
+		<version name="1.2.6" package_path="packages/RecPad-10-R405/1.2.7/update.zip" />
+		<version name="1.2.7" package_path="packages/RecPad-10-R405/1.2.7/update.zip" />
         </product>
 </manifast>
-

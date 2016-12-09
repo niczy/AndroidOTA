@@ -1,17 +1,17 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: android-ota 
+  name: android-ota
 spec:
   replicas: 2
   template:
     metadata:
       labels:
-        run: android-ota 
+        run: android-ota
     spec:
       containers:
-      - name: android-ota 
-        image: gcr.io/nich01as-com/androidota:20160909-2
+      - name: android-ota
+        image: gcr.io/nich01as-com/androidota:20161108-1
         ports:
         - containerPort: 8080
         imagePullPolicy: Always
